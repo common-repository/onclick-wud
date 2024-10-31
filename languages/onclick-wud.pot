@@ -1,0 +1,156 @@
+# Copyright (C) 2016 OnClick WUD
+# This file is distributed under the same license as the OnClick WUD package.
+msgid ""
+msgstr ""
+"Project-Id-Version: OnClick WUD\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/onclick-wud\n"
+"POT-Creation-Date: 2016-09-04 17:43:46+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: DANNY WUD <info@wistudat.be>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: onclick-wud.php:72
+msgid "Settings"
+msgstr ""
+
+#: onclick-wud.php:177
+msgid "The short code has an invalid value and must contain at least"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:11
+msgid "OnClick WUD Options"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:11
+msgid "OnClick events in Posts and Pages"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:45
+msgid "Settings saved"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:77
+msgid "Buttons"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:78
+msgid "Background"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:79
+msgid "On Hover"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:80
+msgid "Text"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:82
+msgid "Font size"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:101
+msgid "Font Family"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:104
+msgid "Round corners"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:109
+msgid "Shadow size"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:114
+msgid "Shadow color"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:118
+msgid "Usage"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:118
+msgid "Where \"my url\" is the destination."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:119
+msgid "Options"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:120
+msgid "Activate button lay-out."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:121
+msgid "\"xxx\" Will be the link/button text."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:122
+msgid "Open URL in a new window/tab."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:123
+msgid "You can combine all options in one short code."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:124
+msgid "Samples"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:125
+msgid "URL with button lay-out."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:126
+msgid "URL with text: Click here."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:127
+msgid "Button with text: Click here."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:128
+msgid "URL with target new window/tab."
+msgstr ""
+
+#: pages/onclick-wud-admin.php:132
+msgid "Save Changes"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:135
+msgid "Visit our website"
+msgstr ""
+
+#: pages/onclick-wud-admin.php:135
+msgid "Get FREE Support"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OnClick WUD"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enable OnClick events in Posts and Pages with Customizable Buttons or URL's"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Danny WUD"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "java, javascript, jquery, onclick, button, href, url, link"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "OnClick WUD"
+msgstr "OnClick WUD"
+
+msgid "http://wud-plugins.com/"
+msgstr "http://wud-plugins.com/"
+
+#. Author of the plugin/theme
+msgid "Danny WUD"
+msgstr "Danny WUD"

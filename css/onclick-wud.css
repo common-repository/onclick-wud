@@ -1,0 +1,11 @@
+/*
+ *	=== Grid WUD ===
+*/
+
+@media screen and (max-width: 1200px) {	
+.wud-buttons{
+	font-size: 120% !important;
+	line-height: 120% !important;
+	padding: 2% !important;
+}
+}
